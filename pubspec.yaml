@@ -1,5 +1,5 @@
-name: ki_lagbe_login
-description: "A Ki Lagbe inspired login UI"
+name: ki_lagbe
+description: "Ki Lagbe - Price comparison for daily needs"
 publish_to: 'none'
 version: 1.0.0+1
 
@@ -14,8 +14,3 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.0
-
-flutter:
-  uses-material-design: true
-  
-  # NO assets section needed since we're using Material Icons
